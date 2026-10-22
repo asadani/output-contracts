@@ -17,3 +17,6 @@ output-contracts = "output_contracts.__main__:main"
 
 [tool.setuptools.packages.find]
 include = ["output_contracts*"]
+
+[tool.setuptools.package-data]
+"*" = ["web/*.css", "web/*.js", "assets/*.css", "assets/*.js", "*.css", "*.js", "*.json"]
