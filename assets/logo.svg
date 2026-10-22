@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 96" role="img" aria-labelledby="title desc">
+<title id="title">Output Contracts</title><desc id="desc">Original geometric identity for Validate output against explicit portable contracts.</desc>
+<rect width="80" height="80" x="8" y="8" rx="18" fill="#35682F"/>
+<path d="M27 17h-9v46h9 M53 17h9v46h-9 M31 31h18 M31 40h18 M31 49h11" transform="translate(8 8)" fill="none" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="108" y="57" fill="#35682F" font-family="Verdana,Arial,sans-serif" font-weight="700" font-size="29">Output Contracts</text>
+</svg>
