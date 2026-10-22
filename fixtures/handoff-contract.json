@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "handoff-v1",
+  "description": "Require the agreed handoff sections and reject a completion assertion.",
+  "mode": "markdown",
+  "forbidden_patterns": [
+    {"id": "unsupported-complete", "pattern": "Everything is complete\\.", "ignore_case": true}
+  ],
+  "required_headings": ["Summary", "Evidence", "Unresolved questions", "Next steps"],
+  "ordered": true,
+  "allow_extra_headings": true
+}
