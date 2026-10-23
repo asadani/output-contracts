@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Output Contracts — Define the shape. Check the output." width="400" height="160">
+</p>
+
 # Output Contracts
 
 Output Contracts checks whether Markdown headings, forbidden text patterns, and declared JSON fields follow an explicit contract. It produces located violations and a useful exit status. A passing result means only that the configured structural rules passed.
-
-![Output Contracts logo](assets/logo.svg)
 
 ## Quickstart
 
