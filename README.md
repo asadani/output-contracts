@@ -49,3 +49,7 @@ python -m unittest discover -s tests -v
 ```
 
 See [verification coverage](docs/VERIFICATION.md) and [the design plan](docs/PLAN.md) for tested behavior and remaining limits.
+
+## License
+
+Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Anuj Sadani.
